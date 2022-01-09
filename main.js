@@ -18,9 +18,9 @@ function createBot() {
 
     let bot = mineflayer.createBot({
         username: `TestMachine_${bots.length}`,
-        server: "localhost",
-        version: "1.16.4",
-		port: 50017,
+        server: "Cxdy1.aternos.me",
+        version: "1.16.5",
+		port: 26857,
     });
     
     bot.task = [];
