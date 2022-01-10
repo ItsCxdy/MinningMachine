@@ -1,4 +1,4 @@
-const minecraftData = require('minecraft-data')("1.16.4");
+const minecraftData = require('minecraft-data')("1.16.5");
 
 const blockLoot = minecraftData.blockLoot;
 const entityLoot = minecraftData.entityLoot;

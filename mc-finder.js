@@ -1,5 +1,5 @@
-const mcdata = require('minecraft-data')("1.16.4"); //Keeping this as is for now.
-const Recipe = require("prismarine-recipe")("1.16.4").Recipe;
+const mcdata = require('minecraft-data')("1.16.5"); //Keeping this as is for now.
+const Recipe = require("prismarine-recipe")("1.16.5").Recipe;
 
 const blockLoot = mcdata.blockLoot;
 const entityLoot = mcdata.entityLoot;

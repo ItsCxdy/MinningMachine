@@ -1,5 +1,5 @@
-const mcdata = require("minecraft-data")('1.16.4');
-const Item = require('prismarine-item')('1.16.4');
+const mcdata = require("minecraft-data")('1.16.5');
+const Item = require('prismarine-item')('1.16.5');
 const pathfinder = require("./pathfinder.js");
 const vec3 = require('vec3');
 const mcfinder = require('./mc-finder.js');
